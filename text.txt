@@ -2,6 +2,8 @@ hello!
 Edit 1
 Edit 2
 Back again
+Added login feature
+got another thing added
 bug fixed
 and here
 and here
