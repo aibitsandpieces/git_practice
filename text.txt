@@ -2,3 +2,7 @@ hello!
 Edit 1
 Edit 2
 Back again
+bug fixed
+and here
+and here
+and here
